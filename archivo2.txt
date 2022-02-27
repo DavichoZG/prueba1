@@ -1,5 +1,0 @@
-Segundo Archivo!
-
-Edicion del archivo!
-
-Edcion de archivo post commit!
